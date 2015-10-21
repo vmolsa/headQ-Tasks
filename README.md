@@ -1,2 +1,2 @@
 # headQ-Tasks
-Simple rpc tasks with promises
+Simple rpc with promises

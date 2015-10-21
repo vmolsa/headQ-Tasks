@@ -1,0 +1,25 @@
+{
+  "name": "headq-tasks",
+  "version": "1.0.0",
+  "description": "Simple rpc with promises",
+  "homepage": "https://github.com/vmolsa/headQ-Tasks",
+  "author": "https://github.com/vmolsa",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vmolsa/headQ-Tasks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vmolsa/headQ-Tasks/issues"
+  },
+  "keywords": [
+    "rpc",
+    "simple",
+    "promise"
+  ],
+  "license": "MIT",
+  "main": "./index.js",
+  "dependencies": {
+    "headq": "^1.0.3",
+    "lodash": "^3.10.1"
+  }
+}
